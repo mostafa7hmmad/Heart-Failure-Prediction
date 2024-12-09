@@ -1,0 +1,17 @@
+Column Name,Description
+male,"Gender of the individual (1 = male, 0 = female)"
+age,Age of the individual in years
+education,"Level of education (categorical, values 1-4)"
+currentSmoker,"Whether the individual is a current smoker (1 = yes, 0 = no)"
+cigsPerDay,Average number of cigarettes smoked per day
+BPMeds,"Whether the individual is on blood pressure medication (1 = yes, 0 = no)"
+prevalentStroke,"Whether the individual has had a stroke previously (1 = yes, 0 = no)"
+prevalentHyp,"Whether the individual has hypertension (1 = yes, 0 = no)"
+diabetes,"Whether the individual has diabetes (1 = yes, 0 = no)"
+totChol,Total cholesterol level (mg/dL)
+sysBP,Systolic blood pressure (mmHg)
+diaBP,Diastolic blood pressure (mmHg)
+BMI,Body Mass Index (kg/m²)
+heartRate,Resting heart rate (beats per minute)
+glucose,Glucose level (mg/dL)
+TenYearCHD,"10-year risk of coronary heart disease (1 = event occurred, 0 = no event)"
